@@ -68,7 +68,7 @@ smart-home-security-esp32/
 ## 📸 Project Demonstration
 
 ### System Block Diagram
-![Block Diagram](Images/block_diagram.png)
+images/Block%20Diagram.png
 
 ### System Flowchart
 ![Flowchart](Images/flowchart.png)
