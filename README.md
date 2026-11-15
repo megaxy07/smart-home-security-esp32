@@ -1,12 +1,12 @@
 # 🏠 Smart Home Security and Intrusion Detection System using ESP32
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Smart Home Security and Intrusion Detection System** is an IoT-based security project developed using the ESP32 microcontroller. The system is designed to detect unauthorized entry and monitor door activity using sensors, providing real-time status indications through an OLED display.
 
 The project demonstrates how embedded systems and sensor-based monitoring can be used to improve basic residential security.
 
-## 🎯 Objectives
+##  Objectives
 
 - Develop a low-cost smart home security monitoring system.
 - Detect human movement using a PIR sensor.
@@ -14,7 +14,7 @@ The project demonstrates how embedded systems and sensor-based monitoring can be
 - Display security status and intrusion alerts on an OLED display.
 - Demonstrate real-time sensor interfacing with an ESP32.
 
-## ⚙️ Hardware Requirements
+##  Hardware Requirements
 
 | Component | Purpose |
 |---|---|
@@ -24,13 +24,13 @@ The project demonstrates how embedded systems and sensor-based monitoring can be
 | OLED Display | Status and alert visualization |
 | Jumper Wires | Hardware connections |
 
-## 💻 Software Requirements
+##  Software Requirements
 
 - Arduino IDE
 - ESP32 Board Package
 - Required OLED display library
 
-## 🔍 Working Principle
+## Working Principle
 
 1. The ESP32 initializes the connected sensors and OLED display.
 2. The PIR sensor monitors the surrounding area for human movement.
@@ -39,7 +39,7 @@ The project demonstrates how embedded systems and sensor-based monitoring can be
 5. The OLED display provides the corresponding security status.
 6. When an intrusion-related condition is detected, an alert is displayed.
 
-## ✨ Key Features
+##  Key Features
 
 - ESP32-based embedded security system.
 - PIR-based motion detection.
@@ -48,7 +48,7 @@ The project demonstrates how embedded systems and sensor-based monitoring can be
 - Compact and low-cost implementation.
 - Expandable architecture for IoT-based security applications.
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 smart-home-security-esp32/
@@ -65,19 +65,8 @@ smart-home-security-esp32/
     └── system_secured.jpeg
 ```
 
-## 📸 Project Demonstration
 
-### System Block Diagram
-(images/BlockDiagram.png)
-
-### System Flowchart
-(images/Flowchart.png)
-
-### System Status and Demonstration
-
-Add your project photographs below to demonstrate the different operating conditions.
-
-## 🚀 Future Scope
+##  Future Scope
 
 The project can be enhanced with the following improvements:
 
@@ -89,7 +78,7 @@ The project can be enhanced with the following improvements:
 6. **Intelligent Intrusion Detection:** Explore machine learning techniques to distinguish normal activity from suspicious behavior.
 7. **Multi-Zone Monitoring:** Extend the system to monitor multiple doors and rooms.
 
-## 🎓 Applications
+##  Applications
 
 - Residential security systems
 - Smart home automation
