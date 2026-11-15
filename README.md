@@ -86,7 +86,7 @@ The project can be enhanced with the following improvements:
 - Embedded IoT monitoring applications
 - Educational embedded systems projects
 
-## 🛠️ Project Category
+## Project Category
 
 **Embedded Systems | Internet of Things (IoT) | ESP32 | Home Automation | Security Monitoring**
 
